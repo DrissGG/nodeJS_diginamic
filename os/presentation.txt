@@ -1,0 +1,3 @@
+MODULE OS
+
+Permet d'interagir avec le système d'exploitation (obtenir des infos, etc).
